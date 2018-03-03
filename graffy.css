@@ -1,0 +1,18 @@
+.graph-container{
+	width:100vw;
+	height: 100%;
+}
+
+.node {
+	background-color:#69C9E0;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+	position: absolute;
+	border-radius: 50px;
+	transition: 0.5s;
+}
+
+.node:hover{
+	box-shadow: 0 4px 4px 2px rgba(0,0,0,0.2);
+	
+
+}
